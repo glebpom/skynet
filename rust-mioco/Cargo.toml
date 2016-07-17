@@ -1,0 +1,10 @@
+[package]
+name = "mioco"
+version = "0.1.0"
+authors = ["Gleb Pomykalov <gleb@pomykalov.ru>"]
+
+[dependencies]
+mioco = "*"
+
+[dependencies.time]
+version = "0.1"
